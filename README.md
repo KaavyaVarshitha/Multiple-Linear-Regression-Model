@@ -3,7 +3,7 @@
 
 ## Summary
 
-The dataset used for this regression model is '**Restaurant Revenue Prediction**'. The goal of this model is to predict the Monthly revenue of the restaurant based on the number of customers eating in that restaurant. Since it is a Multiple Linear regression model, there can be more than one input. The Model is built using Python in **Google colab** platform. The data is divided into training set and test set. Training set being 80% of the data and the test set being 20% of the data and a graph is plotted based on the training and test set seperately.
+The dataset used for this regression model is '**Restaurant Revenue Prediction**'. The goal of this model is to predict the Monthly revenue of the restaurant. Since it is a Multiple Linear regression model, there can be more than one input. The Model is built using Python in **Google colab** platform. The data is divided into training set and test set. Training set being 80% of the data and the test set being 20% of the data and a graph is plotted based on the predicted result.
 
 ## Dataset source
 [Restaurant Revenue Prediction](https://www.kaggle.com/datasets/mrsimple07/restaurants-revenue-prediction) - Kaggle
